@@ -34,14 +34,14 @@ a:hover {
     cursor: pointer;
 }
 
-/* #page-loading-blocs-notifaction {
+#page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
-    bottom: 0;               xx
+    bottom: 0;               
     width: 100%;
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
-} */
+}
 
 .bloc {
     width: 100%;
@@ -301,7 +301,7 @@ a:hover {
 }
 
 #bloc-2-services p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .navbar {
@@ -668,7 +668,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    /* color: wheat!important; */
 }
 
 .container {
@@ -694,7 +694,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -790,7 +790,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #0d1324;
 }
 
 .bgc-atomic-tangerine {
