@@ -6,6 +6,17 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+.navbar-header img{
+    width: 85%;
+}
+.navbar-nav li a{
+    font-size: 23px;
+   
+}
+.col-sm-12{
+    width: 100%;
+}
+
 
 a,
 button {
@@ -781,12 +792,13 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color:wheat!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #413131;
+    color: wheat!important;
+    font-size: 20px;
 }
 
 .btn-atomic-tangerine:hover {
