@@ -32,13 +32,9 @@ summary {
     display: block
 }
 
-audio,
-canvas,
-progress,
-video {
-    display: inline-block;
-    vertical-align: baseline
-}
+
+
+
 
 audio:not([controls]) {
     display: none;
@@ -2332,6 +2328,7 @@ pre code {
     }
     .col-sm-3 {
         width: 25%
+        /* width: 100px; */
     }
     .col-sm-2 {
         width: 16.66666667%
