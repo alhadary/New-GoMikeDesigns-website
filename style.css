@@ -460,6 +460,7 @@ nav .caret {
     margin-bottom: 20px;
 } */
 
+
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
@@ -782,11 +783,11 @@ h4 {
     text-decoration: underline!important;
 }
 
-.service-header {
+/* .service-header {
     font-size: 15px;
     font-weight: 700;
     text-transform: uppercase;
-}
+} */
 
 .bgc-white {
     background-color: #FFFFFF;
